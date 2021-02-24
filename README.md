@@ -9,9 +9,9 @@
 
 # Introduction
 
-This CS Cart module provides an easy method to integrate with the payment gateway.
- - The httpdocs directory contains the files that need to be uploaded to the root directory of where CS Cart is installed
- - Supports CS Cart versions: **4.x+**
+This CS-Cart module provides an easy method to integrate with the payment gateway.
+ - The httpdocs directory contains the files that need to be uploaded to the root directory of where CS-Cart is installed
+ - Supports CS-Cart versions: **4.x+**
 
 # Prerequisites
 
